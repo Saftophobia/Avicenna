@@ -1,5 +1,7 @@
 # Avicenna
 
+- http://cs231n.stanford.edu/
+
 ### books:
 
 - Linear Algebra (Introduction to Linear Algebra).
