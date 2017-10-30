@@ -34,7 +34,6 @@
     - House prices
     - Dog breed identification (visual)
     - Spooky author identification (topic modeling).
-- http://karpathy.github.io/2015/10/25/selfie/
 
 
 
@@ -42,7 +41,7 @@
 
 
 
-#### Advanceed topics:
+#### Advanced topics:
 
 - Deep Reinforcement Learning
     - https://github.com/Rochester-NRT/RocAlphaGo
@@ -54,3 +53,4 @@
     - https://arxiv.org/abs/1601.06759
 - https://arxiv.org/pdf/1508.06576v1.pdf
 - http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/
+- http://karpathy.github.io/2015/10/25/selfie/
