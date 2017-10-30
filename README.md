@@ -17,6 +17,7 @@
 - Model Selection & Boosting: k-fold Cross Validation, Parameter Tuning, Grid Search, XGBoost
 - Thompson Sampling
 
+#### Exotics
 - Reinforcement learning
 - Genetic Algorithms
     - http://karpathy.github.io/2016/05/31/rl/
