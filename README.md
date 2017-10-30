@@ -9,17 +9,13 @@
 - Convex Optimization
 - Statistical Deep learning http://www.deeplearningbook.org/
 
-
-#### Selective topics:
+#### Extras
 
 - Algorithm implementation & tensorflow
 - Data preprocessing
 - Association Rule Learning: Apriori, Eclat
 - Model Selection & Boosting: k-fold Cross Validation, Parameter Tuning, Grid Search, XGBoost
 - Thompson Sampling
-
-
-#### Extras
 
 - Reinforcement learning
 - Genetic Algorithms
