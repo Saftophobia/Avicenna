@@ -18,6 +18,13 @@
 ### Deep Learning
 
 - Statistical Deep learning http://www.deeplearningbook.org/
+- https://drive.google.com/file/d/0B51wXUnyPM2ybVAwRXBrdFVPSk0/view
+    - especially chapter 9 Selected Applications in Information Retrieval
+- Videos:
+    - https://computing.ece.vt.edu/~f15ece6504/
+    - https://www.youtube.com/playlist?list=PLzUTmXVwsnXod6WNdg57Yc3zFx_f-RYsq
+    - http://cs231n.github.io/
+    - NLP DL https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
 - DL Exotics:
     - Bayesian Deep Learning (combining neural nets with graphical models)
     - Deep Reinforcement Learning (AlphaGo, Atari-playing AI, Robotics)
