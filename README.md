@@ -8,7 +8,11 @@
 - Introduction to Statistical Learning
 - Elements of Statistical Learning
 - Bayesian Reasoning and Machine Learning
+- Probability and Statistics
+    - https://projects.iq.harvard.edu/stat110/youtube
 - Convex Optimization
+    - Boyd Stanford course - https://www.youtube.com/watch?v=McLq1hEq3UY
+    - CMU's http://www.stat.cmu.edu/~ryantibs/convexopt/
 - Statistical Deep learning http://www.deeplearningbook.org/
 
 #### Extras
