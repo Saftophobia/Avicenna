@@ -2,7 +2,7 @@
 
 - http://cs231n.stanford.edu/
 
-### books:
+#### books:
 
 - Linear Algebra (Introduction to Linear Algebra).
     - https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/
@@ -15,7 +15,7 @@
     - Boyd Stanford course - https://www.youtube.com/watch?v=McLq1hEq3UY
     - CMU's http://www.stat.cmu.edu/~ryantibs/convexopt/
     
-### Deep Learning
+#### Deep Learning:
 
 - Statistical Deep learning http://www.deeplearningbook.org/
 - https://drive.google.com/file/d/0B51wXUnyPM2ybVAwRXBrdFVPSk0/view
@@ -50,6 +50,7 @@
 #### Extras
 
 - Algorithm implementation & tensorflow
+    - http://web.stanford.edu/class/cs20si/syllabus.html 
     - https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info
 - Data preprocessing
 - Association Rule Learning: Apriori, Eclat
@@ -64,12 +65,13 @@
     - https://www.udacity.com/course/intro-to-parallel-programming--cs344
     - Cuda by example http://www.itp.cas.cn/kxjs/jzytz/pxyjz/201306/P020130624362235915673.pdf
     - TextBook: Programming Massively Parallel Processors: A Hands-on Approach 
-    - 
+    - http://courses.cms.caltech.edu/cs179/
 
 
 #### Data Analysis
 - Still looking for materials
 - Kaggle:
+    - http://cs109.github.io/2015/
     - https://www.kaggle.com/wiki/Tutorials
     - Titanic
     - House prices
@@ -91,3 +93,7 @@
 - https://arxiv.org/pdf/1508.06576v1.pdf
 - http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/
 - http://karpathy.github.io/2015/10/25/selfie/
+
+
+#### Extras
+- Intro to haskel http://www.seas.upenn.edu/~cis194/fall16/
