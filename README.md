@@ -15,6 +15,10 @@
     - Boyd Stanford course - https://www.youtube.com/watch?v=McLq1hEq3UY
     - CMU's http://www.stat.cmu.edu/~ryantibs/convexopt/
     
+#### AI
+- http://ai.berkeley.edu/lecture_videos.html
+    - project: http://ai.berkeley.edu/project_overview.html
+    
 #### Deep Learning:
 
 - Statistical Deep learning http://www.deeplearningbook.org/
