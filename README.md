@@ -20,6 +20,7 @@
 - Statistical Deep learning http://www.deeplearningbook.org/
 - https://drive.google.com/file/d/0B51wXUnyPM2ybVAwRXBrdFVPSk0/view
     - especially chapter 9 Selected Applications in Information Retrieval
+- Slides: http://deeplearning.cs.cmu.edu/
 - Videos:
     - https://computing.ece.vt.edu/~f15ece6504/
     - https://www.youtube.com/playlist?list=PLzUTmXVwsnXod6WNdg57Yc3zFx_f-RYsq
@@ -49,6 +50,7 @@
 #### Extras
 
 - Algorithm implementation & tensorflow
+    - https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info
 - Data preprocessing
 - Association Rule Learning: Apriori, Eclat
 - Model Selection & Boosting: k-fold Cross Validation, Parameter Tuning, Grid Search, XGBoost
@@ -58,23 +60,21 @@
 - Reinforcement learning
 - Genetic Algorithms
     - http://karpathy.github.io/2016/05/31/rl/
-
-    
-
+- Parallel Programming 
+    - https://www.udacity.com/course/intro-to-parallel-programming--cs344
+    - Cuda by example http://www.itp.cas.cn/kxjs/jzytz/pxyjz/201306/P020130624362235915673.pdf
+    - TextBook: Programming Massively Parallel Processors: A Hands-on Approach 
+    - 
 
 
 #### Data Analysis
 - Still looking for materials
 - Kaggle:
+    - https://www.kaggle.com/wiki/Tutorials
     - Titanic
     - House prices
     - Dog breed identification (visual)
     - Spooky author identification (topic modeling).
-
-
-
-
-
 
 
 #### Advanced topics:
@@ -82,6 +82,7 @@
 - Deep Reinforcement Learning
     - https://github.com/Rochester-NRT/RocAlphaGo
 - Generative and Adversarial Models
+    - http://on-demand.gputechconf.com/gtc/2017/video/s7502-ian-goodfellow-generative-adversarial-networks.mp4
     - https://arxiv.org/abs/1406.2661
     - http://papers.nips.cc/paper/5773-deep-generative-image-models-using-a-laplacian-pyramid-of-adversarial-networks
     - https://arxiv.org/abs/1511.06434
