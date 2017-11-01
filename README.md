@@ -5,6 +5,7 @@
 ### books:
 
 - Linear Algebra (Introduction to Linear Algebra).
+    - https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/
 - Introduction to Statistical Learning
 - Elements of Statistical Learning
 - Bayesian Reasoning and Machine Learning
