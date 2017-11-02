@@ -88,6 +88,7 @@
 - Deep Reinforcement Learning
     - https://github.com/Rochester-NRT/RocAlphaGo
 - Generative and Adversarial Models
+    - https://arxiv.org/pdf/1701.00160.pdf
     - http://on-demand.gputechconf.com/gtc/2017/video/s7502-ian-goodfellow-generative-adversarial-networks.mp4
     - https://arxiv.org/abs/1406.2661
     - http://papers.nips.cc/paper/5773-deep-generative-image-models-using-a-laplacian-pyramid-of-adversarial-networks
