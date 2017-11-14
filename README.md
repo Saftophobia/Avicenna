@@ -102,3 +102,17 @@
 
 #### Extras
 - Intro to haskel http://www.seas.upenn.edu/~cis194/fall16/
+
+----
+
+### Data Science
+
+- An Introduction to Statistical Learning" by James, Witten http://www-bcf.usc.edu/~gareth/ISL/
+- "Outlier Analysis" by Aggarwal (advanced) - https://www.amazon.com/Outlier-Analysis-Charu-C-Aggarwal/dp/1461463955
+- Data Mining: The Textbook" http://www.amazon.com/Data-Mining-Textbook-Charu-Aggarwal/dp/3319141414
+- "Temporal Data Mining" by Mitsa
+- "Applied Predictive Modeling" by Kuhn & Johnson
+- "Data Mining: Practical Machine Learning Tools and Techniques” by Ian H. Witten, Eibe Frank & Mark A. Hall 
+- Doing Data Science: Straight Talk from the Frontline" by Schutt & O'Neil (use cases) - https://www.amazon.com/Doing-Data-Science-Straight-Frontline/dp/1449358659/ && https://www.amazon.com/The-Signal-Noise-Predictions-Fail-but/dp/0143125087
+- Data Classification: Algorithms and Applications - Charu C. Aggarwal - https://www.crcpress.com/Data-Classification-Algorithms-and-Applications/Aggarwal/p/book/9781466586741
+- "Machinery Prognostics and Prognosis Oriented Maintenance Management" by Yan
