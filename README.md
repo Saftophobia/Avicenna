@@ -1,8 +1,5 @@
 # Avicenna
-
-- http://cs231n.stanford.edu/
-
-#### books:
+#### Core:
 
 - Linear Algebra (Introduction to Linear Algebra).
     - https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/
@@ -180,6 +177,7 @@
     - especially chapter 9 Selected Applications in Information Retrieval
 - Slides: http://deeplearning.cs.cmu.edu/
 - Videos:
+    - http://cs231n.stanford.edu/
     - https://computing.ece.vt.edu/~f15ece6504/
     - https://www.youtube.com/playlist?list=PLzUTmXVwsnXod6WNdg57Yc3zFx_f-RYsq
     - http://cs231n.github.io/
