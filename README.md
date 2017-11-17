@@ -87,6 +87,50 @@
         17. Undirected Graphical Models 
         18. High-Dimensional Problems
 - Bayesian Reasoning and Machine Learning
+    - http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/090310.pdf
+        - Appendix Background Mathematics
+        - Inference in Probabilistic Models
+            - Probabilistic Reasoning
+                - Prior,LikelihoodandPosterior
+            - Basic Graph Concepts
+            - Belief Networks
+            - Graphical Models
+                - Markov Models
+            - Efficient Inference in Trees
+            - The Junction Tree Algorithm
+            - Making Decisions
+                - Decision trees and Markov decision process
+                - ProbabilisticInferenceandPlanning
+        - Learning in Probabilistic Models
+            - Statistics for Machine Learning
+                - Distributions
+                - MultivariateGaussian
+            - Learning as Inference
+                - Maximum APosteriori and Maximum Likelihood
+                - Bayesian Belief Network Training 
+            - Naive Bayes
+            - **Learning with Hidden Variables**
+                - Missing data
+            - Bayesian Model Selection
+        - Machine Learning
+            - Machine Learning Concepts
+            - NN classification (A probabilistic interpretation)
+            - Un/Supervised Linear Dimension Reduction
+            - (Linear) Bayesian Models
+            - **Gaussian Processes**
+            - Mixture Models
+            - Latent (Linear/Ability) Models
+        - Dynamical Models
+            - Discrete-State Markov Models (HMMs)
+            - Continuous-state Markov Models
+            - Switching Linear Dynamical Systems
+            - Distributed Computation
+                - StochasticHopfieldNetworks
+        - Approximate Inference
+            - Sampling
+                - MCMC
+            - Deterministic Approximate Inference
+                - PropertiesofKullback-Leibler
 - Probability and Statistics
     - https://projects.iq.harvard.edu/stat110/youtube
 - Convex Optimization
