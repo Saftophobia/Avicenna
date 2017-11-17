@@ -230,13 +230,33 @@
     
 --------------
 
-#### AI
-- http://ai.berkeley.edu/lecture_videos.html
-    - project: http://ai.berkeley.edu/project_overview.html
-    
 #### Deep Learning:
 
-- Statistical Deep learning http://www.deeplearningbook.org/
+- Statistical Deep learning 
+    - http://www.deeplearningbook.org/
+        - Applied Math and Machine Learning Basics
+            - Linear Algebra
+            - Probability and Information Theory
+            - Numerical Computation
+            - Machine Learning Basics
+        - Modern Practical Deep Networks
+            - Deep Feedforward Networks
+            - Regularization for Deep Learning
+            - Optimization for Training Deep Models
+            - Convolutional Networks
+            - Sequence Modeling: Recurrent and Recursive Nets
+            - Practical Methodology
+            - Applications
+        - Deep Learning Research
+            - Linear Factor Models
+            - Autoencoders
+            - Representation Learning
+            - Structured Probabilistic Models for Deep Learning
+            - Monte Carlo Methods
+            - Confronting the Partition Function
+            - Approximate Inference
+            - Deep Generative Models
+
 - https://drive.google.com/file/d/0B51wXUnyPM2ybVAwRXBrdFVPSk0/view
     - especially chapter 9 Selected Applications in Information Retrieval
 - Slides: http://deeplearning.cs.cmu.edu/
@@ -286,8 +306,10 @@
     - Cuda by example http://www.itp.cas.cn/kxjs/jzytz/pxyjz/201306/P020130624362235915673.pdf
     - TextBook: Programming Massively Parallel Processors: A Hands-on Approach 
     - http://courses.cms.caltech.edu/cs179/
-
-
+- AI 
+    - http://ai.berkeley.edu/lecture_videos.html
+    - project: http://ai.berkeley.edu/project_overview.html
+ 
 #### Data Analysis
 - Still looking for materials
 - Kaggle:
