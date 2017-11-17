@@ -41,8 +41,24 @@
         - Quiz 3 review
         - Left and right inverses; pseudoinverse
         - Final course review
+        
 - Introduction to Statistical Learning
-    - 
+    - http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf
+        - Statistical Learning
+        - Linear Regression
+        - Classification
+        - Resampling Methods
+             - X-Validation and bootstraping
+        - Linear Model Selection and Regularization
+             - Subset Selection , Shrinkage Methods, 
+        - Moving Beyond Linearity
+             - Non linear modeling 
+        - Tree based methods
+             - Random Forests
+        - Support Vector Machines
+             -
+        - Unsupervised Learning
+        
 - Elements of Statistical Learning
     - https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf
         1. Introduction
