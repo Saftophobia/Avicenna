@@ -55,8 +55,7 @@
              - Non linear modeling 
         - Tree based methods
              - Random Forests
-        - Support Vector Machines
-             -
+        - Support Vector Machine
         - Unsupervised Learning
         
 - Elements of Statistical Learning
