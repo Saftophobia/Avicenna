@@ -86,6 +86,40 @@
         16. Ensemble Learning
         17. Undirected Graphical Models 
         18. High-Dimensional Problems
+- Probability and Statistics
+    - https://projects.iq.harvard.edu/stat110/youtube
+        - Sample spaces, naive definition of probability, counting, sampling
+        - Bose-Einstein, story proofs, Vandermonde identity, axioms of probability
+        - Birthday problem, properties of probability, inclusion-exclusion, matching problem
+        - Independence, Newton-Pepys, conditional probability, Bayes’ rule
+        - Law of total probability, conditional probability examples, conditional independence
+        - Monty Hall problem, Simpson’s paradox
+        - Gambler’s ruin, first step analysis, random variables, Bernoulli, Binomial
+        - Random variables, CDFs, PMFs, Hypergeometric
+        - Independence, Geometric, expected values, indicator r.v.s, linearity, symmetry, fundamental bridge
+        - Linearity, Putnam problem, Negative Binomial, St. Petersburg paradox
+        - Sympathetic magic, Poisson distribution, Poisson approximation
+        - Discrete vs. continuous, PDFs, variance, standard deviation, Uniform, universality
+        - Standard Normal, Normal normalizing constant
+        - Normal distribution, standardization, LOTUS
+        - Exponential distribution, memoryless property 
+        - Moment generating functions (MGFs), hybrid Bayes’ rule, Laplace’s rule of succession
+        - MGFs to get moments of Expo and Normal, sums of Poissons, joint distributions
+        - Joint, conditional, and marginal distributions, 2-D LOTUS, chicken-egg
+        - Expected distance between Normals, Multinomial, Cauchy
+        - Covariance, correlation, variance of a sum, variance of Hypergeometric
+        - Transformations, LogNormal, convolutions, the probabilistic method
+        - Beta distribution, Bayes’ billiards, finance preview and examples
+        - Gamma distribution, Poisson processes
+        - Beta-Gamma (bank-post office), order statistics, conditional expectation, two envelope paradox
+        - Two envelope paradox (cont.), conditional expectation (cont.), waiting for HT vs. waiting for HH
+        - Conditional expectation (cont.), taking out what’s known, Adam’s law, Eve’s law 
+        - Sum of a random number of random variables, inequalities (Cauchy-Schwarz, Jensen, Markov, Chebyshev)
+        - Law of large numbers, central limit theorem
+        - Chi-Square, Student-t, Multivariate Normal
+        - Markov chains, transition matrix, stationary distribution
+        - Markov chains (cont.), irreducibility, reversibility, random walk on an undirected network
+        - Markov chains (cont.), Google PageRank as a Markov chain
 - Bayesian Reasoning and Machine Learning
     - http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/090310.pdf
         - Appendix Background Mathematics
@@ -131,8 +165,6 @@
                 - MCMC
             - Deterministic Approximate Inference
                 - PropertiesofKullback-Leibler
-- Probability and Statistics
-    - https://projects.iq.harvard.edu/stat110/youtube
 - Convex Optimization
     - Boyd Stanford course - https://www.youtube.com/watch?v=McLq1hEq3UY
     - CMU's http://www.stat.cmu.edu/~ryantibs/convexopt/
