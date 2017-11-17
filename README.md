@@ -6,8 +6,71 @@
 
 - Linear Algebra (Introduction to Linear Algebra).
     - https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/
+        - The geometry of linear equations
+        - Elimination with matrices
+        - Multiplication and inverse matrices
+        - Factorization into A = LU
+        - Transposes, permutations, spaces R^n
+        - Column space and nullspace
+        - Solving Ax = 0: pivot variables, special solutions
+        - Solving Ax = b: row reduced form R
+        - Independence, basis, and dimension
+        - The four fundamental subspaces
+        - Matrix spaces; rank 1; small world graphs
+        - Graphs, networks, incidence matrices
+        - Quiz 1 review
+        - Orthogonal vectors and subspaces
+        - Projections onto subspaces
+        - Projection matrices and least squares
+        - Orthogonal matrices and Gram-Schmidt
+        - Properties of determinants
+        - Determinant formulas and cofactors
+        - Cramer's rule, inverse matrix, and volume
+        - Eigenvalues and eigenvectors
+        - Diagonalization and powers of A
+        - Differential equations and exp(At)
+        - Markov matrices; fourier series
+        - Quiz 2 review
+        - Symmetric matrices and positive definiteness
+        - Complex matrices; fast fourier transform
+        - Positive definite matrices and minima
+        - Similar matrices and jordan form
+        - Singular value decomposition
+        - Linear transformations and their matrices
+        - Change of basis; image compression
+        - Quiz 3 review
+        - Left and right inverses; pseudoinverse
+        - Final course review
 - Introduction to Statistical Learning
+    - 
 - Elements of Statistical Learning
+    - https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf
+        1. Introduction
+        2. Overview of Supervised Learning 
+        3. Linear Methods for Regression
+            - LAR algorithm and generalizations of the lasso
+        4. Linear Methods for Classification 
+            - Lasso path for logistic regression
+        5. Basis Expansions and Regularization
+            - Additional illustrations of RKHS
+        6. Kernel Smoothing Methods
+        7. Model Assessment and Selection
+            - Strengths and pitfalls of cross- validatio
+        8. Model Inference and Averaging 
+        9. Additive Models, Trees, and Related Methods
+        10. Boosting and Additive Trees
+            - New example from ecology; some material split off to Chapter 16.
+        11. Neural Networks
+            - Bayesian neural nets and the NIPS 2003 challenge
+        12. Support Vector Machines and Flexible Discriminants
+            - Path algorithm for SVM classifier
+        Prototype Methods Nearest-Neighbors
+        14. Unsupervised Learning
+            - Spectral clustering, kernel PCA, sparse PCA, non-negative matrix factorization archetypal analysis, nonlinear dimension reduction, Google page rank algorithm, a direct approach to ICA
+        15. Random Forests
+        16. Ensemble Learning
+        17. Undirected Graphical Models 
+        18. High-Dimensional Problems
 - Bayesian Reasoning and Machine Learning
 - Probability and Statistics
     - https://projects.iq.harvard.edu/stat110/youtube
